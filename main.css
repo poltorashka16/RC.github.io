@@ -1,0 +1,111 @@
+.table-wrapper {
+    text-align: center;
+  }
+  
+  table {
+    width: 80%;
+    margin: 0 auto; 
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border-radius: 10px; 
+    overflow: hidden; 
+  }
+  
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #000; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  
+ 
+  tr:nth-child(even) {
+    background-color: #ffd700; 
+    color: #000; 
+  }
+  
+
+  th{
+    background-color: #ffd700; 
+    color: #000; 
+  }
+
+
+  th, td {
+    border: none;
+  }
+  
+    
+  #totalCost {
+    font-weight: bold;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #totalCost2 {
+    font-weight: bold;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #totalCost3 {
+    font-weight: bold;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #totalCost4 {
+    font-weight: bold;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #rrc {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #OverallTotal {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #opt {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #rus {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  #calculateButton {
+    padding: 10px;
+    background-color: #ffd700; /* Желтый фон кнопки */
+    color: #000; /* Черный текст кнопки */
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Плавное изменение цвета фона при наведении */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  #calculateButton:hover {
+    background-color: #ffeb3b; /* Желтый фон кнопки при наведении */
+  }
+  #calculateTotal {
+    padding: 10px;
+    background-color: #ffd700; /* Желтый фон кнопки */
+    color: #000; /* Черный текст кнопки */
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #productTable5 {
+    font-weight: bold;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  .table-spacing {
+    margin-top: 60px; /* Выберите подходящее значение для ваших нужд */
+}
